@@ -5824,7 +5824,7 @@ body.page .main-navigation {
 .entry .entry-content .wp-block-quote.is-style-large footer {
   /*
 				 * This requires a rem-based font size calculation instead of our normal em-based one,
-				 * because the cite tag sometimes gets wrapped in a p tag. This is equivalent to $font-size_xs.
+				 * because the cite tag sometimes gets wrapped in a p tag. This is equivalent to $font-size_xs. nice
 				 */
   font-size: calc(1rem / (1.25 * 1.125));
 }
