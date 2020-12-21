@@ -1,0 +1,16 @@
+@charset 'utf-8';
+/*
+Theme Name: N7 Golf Club  Child
+Theme URI: http://golfclub.themerex.net
+Description: yreg Estate - Multipurpose and Multiskin Responsive Wordpress theme
+Author: ThemeRex
+Author URI: http://themerex.net
+Template: n7-golf-club
+Version: 1.0
+Tags: flexible-header, accessibility-ready, custom-background, custom-colors, custom-menu, featured-image-header, featured-images, full-width-template, post-formats, theme-options, threaded-comments, translation-ready
+*/
+
+@import url("../n7-golf-club/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
